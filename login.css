@@ -1,0 +1,41 @@
+.login-form {
+    width: 450px;
+    margin-top: 204px;
+    background-color: #b3d7ff;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+    background-color: #00A6FF;
+}
+
+nav ul li a {
+    color: #ffffff;
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-shadow: 0px 0px 1px #ffffff;
+}
+
+nav img {
+    padding-left: 50px;
+}
+
+.lista-nav-um {
+    display: flex;
+    gap: 5rem;
+}
+
+.lista-nav-dois {
+    display: flex;
+    gap: 3.125rem;
+    padding-right: 50px;
+}
